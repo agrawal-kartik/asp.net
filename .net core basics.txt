@@ -1,0 +1,18 @@
+fundamentals of ASP.NET core 
+
+entity framework core 
+
+changes in .net 6
+
+crud operations
+
+client and server validations 
+
+TempData
+
+deploy to azure 
+
+error solving
+
+
+

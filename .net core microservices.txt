@@ -1,0 +1,21 @@
+tech stack - c#, asp.net, 
+
+WHY MICROSERVICES ?
+
+1. independently deployable
+2. independently scalable
+3. No Bulky Code
+4. Reduce downtime
+
+Microservices are independently deployable and allow for more team autonomy
+microservices are independently scalable
+microservices reduce downtime through fault isolation
+the smaller codebase enables teams to more easily unserstand the code, making it simpler to maintain
+
+stored procedures, github, azure from .net tricks, w3 school c#
+
+.net api , identity server, service bus , 
+microservice communication, gateway, best practises
+
+
+pre-requesties - .net core, ef core and apis
